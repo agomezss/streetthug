@@ -41,11 +41,11 @@ I used a lot of free resources for develop this game and many of them I created 
 
 Great Site with tons of free Assets:
 
-opengameart.org
+https://opengameart.org
 
 Great Site with lots of fun SFX Sounds and Songs:
 
-zapsplat.com
+https://zapsplat.com
 
 Unity Simple Input System:
 
